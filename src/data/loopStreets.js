@@ -143,8 +143,8 @@ export const loopStreets = [
     geometry: {
       type: "LineString",
       coordinates: [
-        [-87.6212, 41.8885],
-        [-87.6211, 41.8720],
+        [-87.6207, 41.8888],
+        [-87.6207, 41.8690],
       ],
     },
   },
